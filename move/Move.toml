@@ -1,0 +1,9 @@
+[package]
+name = "nft"
+version = "1.0.0"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "main" }
+
+[addresses]
+addr = "0x02ca0cd188d92438f11c0284b9ea5ed30b59da4d829e85539bfd9b8ce52989eb"
