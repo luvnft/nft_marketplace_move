@@ -1,7 +1,6 @@
 # nft_marketplace_move
 NFT Marketplace where you can upload, sell and buy music NFTs which are stored on decentralized IPFS locations, and integrated with PetraWallet. Smart Contracts Programmed in Move Language and tested locally with Aptos
 
-```markdown
 # Installation Commands
 
 ## Frontend Setup
@@ -104,6 +103,3 @@ aptos node run-local-testnet --with-faucet
 - Wallet Integration
 - Music File Upload
 - Smart Contract Integration
-```
-
-Let me know if you'd like any adjustments!
